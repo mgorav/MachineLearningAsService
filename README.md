@@ -79,6 +79,9 @@ _**My architecture mantra is simple - "empower data scientist/engineer & organis
 hashtag#ml hashtag#mlasservice hashtag#mlrestapi hashtag#cnnasservice hashtag#mlmodeldocker
 
 
+![alt text](./preceptioncvreality.png)
+
+
 
 
 
