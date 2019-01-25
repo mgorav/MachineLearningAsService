@@ -9,7 +9,7 @@ The business value of data science is all about taking the valuable model to the
 
 **NOTE:** ETL is an intrinsic part of the pipeline 
 
-At add "fun" - "complexity", there are many framework involved in the pipelines:
+At add to "complexity", there are many framework involved in the pipelines:
 
 - scikit-learn
 - Spark ML pipelines
