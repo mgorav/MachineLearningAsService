@@ -17,7 +17,7 @@ At add to "complexity", there are many framework involved in the pipelines:
 - Keras pipelines
 - pytorch pipelines
 
-At "Gonnect", we believe give the power to the "Data Scientist" to choice the framework of there choice. This would be ideal.  Check out the github project, which demonstrates dockerization of ML model and exposing them are REST API (Microservices). As a result, it can be deployed on kubernetes cluster on any cloud provider of your choice. 
+At "Gonnect", we believe give the power to the "Data Scientist" to choice the framework of their choice. This would be ideal.  Check out the github project, which demonstrates dockerization of ML model and exposing them are REST API (Microservices). As a result, it can be deployed on kubernetes cluster on any cloud provider of your choice. 
 
 ## Pre-requiste
 
