@@ -66,6 +66,18 @@ seldon-core-tester contract.json 0.0.0.0 5000 -p
 
 **NOTE** This model can now be easily deployed to cluster and scale as per the business requirements.
 
+### To summarize
+In the world of data science, the million dollar question is - **_"how to take ML model (pipeline) to production as repetitive, predictable manner (AGILE) and exposing it as a service"_**
+
+Containerisation aides in agility and automation journey to production. Below example demonstrates the dokerization of ML (CNN) model and expose it as REST API. The model is build purely in python. Not a single line of code written to create prediction micro-service. 
+
+Also the whole approach is language agnostic. This mans, if you have written model in java/kotlin using dl4j, or R or Scala - the same concept/approach can be applied. This is really handy as we are giving power to the data scientist to choose language/framework  of their choice plus also organisation to pick the language based on the skillset available.
+
+Further this model can be deployed on Kubernetes cluster and hence will help in scaling. Last but not the least, the whole approach is cloud provider agnostic.
+
+_**My architecture mantra is simple - "empower data scientist/engineer & organisation while using data science to add business value to the organisation by providing agility with velocity and maximum utilisation of their talent pool"**_
+hashtag#ml hashtag#mlasservice hashtag#mlrestapi hashtag#cnnasservice hashtag#mlmodeldocker
+
 
 
 
